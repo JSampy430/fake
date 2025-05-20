@@ -1,0 +1,15 @@
+<!-- fake-ai.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fake AI Form</title>
+  <script src="./app.js"></script> <!-- Your Sentinel script -->
+  <script src="https://fakeai.com/tracker.js"></script> <!-- Fake AI script -->
+</head>
+<body>
+  <h1>Fake AI Test Page</h1>
+  <input type="text" name="email" placeholder="Email">
+  <input type="text" name="name" placeholder="Full Name">
+  <input type="text" name="phone" placeholder="Phone Number">
+</body>
+</html>
